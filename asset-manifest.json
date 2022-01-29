@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ShroomSporesCandyMachine/static/css/main.6e1089bc.chunk.css",
-    "main.js": "/ShroomSporesCandyMachine/static/js/main.883de99d.chunk.js",
-    "main.js.map": "/ShroomSporesCandyMachine/static/js/main.883de99d.chunk.js.map",
+    "main.js": "/ShroomSporesCandyMachine/static/js/main.35c3b3ef.chunk.js",
+    "main.js.map": "/ShroomSporesCandyMachine/static/js/main.35c3b3ef.chunk.js.map",
     "runtime-main.js": "/ShroomSporesCandyMachine/static/js/runtime-main.4aa61249.js",
     "runtime-main.js.map": "/ShroomSporesCandyMachine/static/js/runtime-main.4aa61249.js.map",
     "static/js/2.17e335ac.chunk.js": "/ShroomSporesCandyMachine/static/js/2.17e335ac.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4aa61249.js",
     "static/js/2.17e335ac.chunk.js",
     "static/css/main.6e1089bc.chunk.css",
-    "static/js/main.883de99d.chunk.js"
+    "static/js/main.35c3b3ef.chunk.js"
   ]
 }
