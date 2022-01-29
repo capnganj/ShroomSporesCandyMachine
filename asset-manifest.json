@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ShroomSporesCandyMachine/static/css/main.6e1089bc.chunk.css",
-    "main.js": "/ShroomSporesCandyMachine/static/js/main.35c3b3ef.chunk.js",
-    "main.js.map": "/ShroomSporesCandyMachine/static/js/main.35c3b3ef.chunk.js.map",
-    "runtime-main.js": "/ShroomSporesCandyMachine/static/js/runtime-main.4aa61249.js",
-    "runtime-main.js.map": "/ShroomSporesCandyMachine/static/js/runtime-main.4aa61249.js.map",
-    "static/js/2.17e335ac.chunk.js": "/ShroomSporesCandyMachine/static/js/2.17e335ac.chunk.js",
-    "static/js/2.17e335ac.chunk.js.map": "/ShroomSporesCandyMachine/static/js/2.17e335ac.chunk.js.map",
-    "static/js/3.db89e388.chunk.js": "/ShroomSporesCandyMachine/static/js/3.db89e388.chunk.js",
-    "static/js/3.db89e388.chunk.js.map": "/ShroomSporesCandyMachine/static/js/3.db89e388.chunk.js.map",
-    "index.html": "/ShroomSporesCandyMachine/index.html",
-    "static/css/main.6e1089bc.chunk.css.map": "/ShroomSporesCandyMachine/static/css/main.6e1089bc.chunk.css.map",
-    "static/js/2.17e335ac.chunk.js.LICENSE.txt": "/ShroomSporesCandyMachine/static/js/2.17e335ac.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.6e1089bc.chunk.css",
+    "main.js": "./static/js/main.ca85675a.chunk.js",
+    "main.js.map": "./static/js/main.ca85675a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fabb01be.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fabb01be.js.map",
+    "static/js/2.34fde4d9.chunk.js": "./static/js/2.34fde4d9.chunk.js",
+    "static/js/2.34fde4d9.chunk.js.map": "./static/js/2.34fde4d9.chunk.js.map",
+    "static/js/3.db89e388.chunk.js": "./static/js/3.db89e388.chunk.js",
+    "static/js/3.db89e388.chunk.js.map": "./static/js/3.db89e388.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.6e1089bc.chunk.css.map": "./static/css/main.6e1089bc.chunk.css.map",
+    "static/js/2.34fde4d9.chunk.js.LICENSE.txt": "./static/js/2.34fde4d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4aa61249.js",
-    "static/js/2.17e335ac.chunk.js",
+    "static/js/runtime-main.fabb01be.js",
+    "static/js/2.34fde4d9.chunk.js",
     "static/css/main.6e1089bc.chunk.css",
-    "static/js/main.35c3b3ef.chunk.js"
+    "static/js/main.ca85675a.chunk.js"
   ]
 }
